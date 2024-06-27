@@ -18,6 +18,11 @@ void printMenu() {
         << "Выбор: ";
 }
 
+
+void name() {}
+//asfskldf
+
+
 int main() {
     setlocale(LC_ALL, "Russian");
     Stack myStack;
