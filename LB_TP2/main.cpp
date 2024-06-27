@@ -18,6 +18,8 @@ void printMenu() {
         << "Выбор: ";
 }
 
+int desk(){}
+
 int main() {
     setlocale(LC_ALL, "Russian");
     Stack myStack;
